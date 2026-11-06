@@ -1,9 +1,12 @@
-##Back-End-Development-Pictures
-##Environment Setup
-Repository created from the provided coding-project-template.
-Environment initialized locally.
-Python version: 3.9.x
-Virtual environment: backend-pics-venv
+# Back-End-Development-Pictures
+
+## Environment Setup
+
+- Repository created from the provided template.
+- Environment initialized using `bin/setup.sh`.
+- Python version: 3.9.x
+- Virtual environment: backend-pics-venv
+
 Flask application configured.
 REST API implemented.
 ##Project Setup
