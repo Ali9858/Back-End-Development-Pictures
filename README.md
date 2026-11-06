@@ -1,12 +1,12 @@
-Back-End-Development-Pictures
-Environment Setup
+##Back-End-Development-Pictures
+##Environment Setup
 Repository created from the provided coding-project-template.
 Environment initialized locally.
 Python version: 3.9.x
 Virtual environment: backend-pics-venv
 Flask application configured.
 REST API implemented.
-Project Setup
+##Project Setup
 
 Check Python version:
 
@@ -14,13 +14,13 @@ bash
 python --version
 
 
-Create virtual environment:
+##Create virtual environment:
 
 bash
 python -m venv backend-pics-venv
 
 
-Activate virtual environment:
+##Activate virtual environment:
 
 Windows PowerShell:
 
@@ -40,9 +40,9 @@ bash
 bash ./bin/setup.sh
 
 
-Expected result: setup script completed successfully.
+##Expected result: setup script completed successfully.
 
-API Endpoints
+##API Endpoints
 Method	Endpoint	Description
 GET	/health	Health check
 GET	/count	Count pictures
@@ -56,16 +56,16 @@ bash
 py app.py
 
 
-Application URL: http://127.0.0.1:5001
+##Application URL: http://127.0.0.1:5001
 
-Testing
+##Testing
 
 Run all tests:
 
 bash
 py -m pytest -v
 
-Technologies
+##Technologies
 Python 3.9.x
 Flask
 REST API
